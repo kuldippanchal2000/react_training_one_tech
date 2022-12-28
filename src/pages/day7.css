@@ -1,0 +1,12 @@
+.heading {
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+
+.custom-row {
+  text-align: center;
+  font-size: 30px;
+  color: blue;
+  font-weight: bold;
+}

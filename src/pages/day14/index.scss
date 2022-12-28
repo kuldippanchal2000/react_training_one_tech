@@ -1,0 +1,35 @@
+.day14-container {
+  margin: 25px;
+  .day14-body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnD4e6B_8RzF8ZOT4kg-5OKSJVauyqxhZFw&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 34px;
+    border-radius: 8px;
+    border: 1px solid #555;
+    width: fit-content;
+    .day14-button {
+      text-align: center;
+    }
+  }
+  .day14-table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    text-align: center;
+    th {
+      font-size: 20px;
+      background-color: rgb(128, 128, 128);
+    }
+    td {
+      font-size: 18px;
+      font-weight: 600;
+    }
+    button {
+      color: white;
+      margin: 10px;
+      border-radius: 0.5rem;
+      background-color: rgb(0, 0, 0);
+    }
+  }
+}

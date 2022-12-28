@@ -1,0 +1,27 @@
+.card-day15 {
+  margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+  .button1 {
+    margin-right: 5px;
+    background-color: rgb(162, 0, 255);
+    color: white;
+    font-weight: bold;
+  }
+  .button2 {
+    background-color: rgb(167, 56, 46);
+    color: white;
+    font-weight: bold;
+  }
+}
+.day12-form-body {
+  padding: 25px;
+  border-radius: 8px;
+  .field {
+    font-size: large;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+  }
+}

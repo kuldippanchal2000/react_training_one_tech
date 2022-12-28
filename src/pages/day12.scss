@@ -1,0 +1,35 @@
+.day12-container {
+  .text-form {
+    margin-top: 20px;
+  }
+  .day12-btn {
+    margin-top: 10px;
+    margin-left: 120px;
+  }
+  .table-div {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnD4e6B_8RzF8ZOT4kg-5OKSJVauyqxhZFw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    border: 3px solid rgb(116, 116, 116);
+    width: 25%;
+    margin-top: 20px;
+  }
+  th {
+    color: blueviolet;
+    font-size: large;
+    font-weight: bold;
+  }
+  td {
+    color: black;
+    font-size: large;
+    font-weight: 500;
+  }
+  .day12-data {
+    text-align: start;
+    margin-top: 20px;
+  }
+  .main-data {
+    width: 25%;
+  }
+}

@@ -1,0 +1,24 @@
+React Task (Day 1)
+1. JSX
+JSX stand for javascript XML
+It allow us to write html in react and also easier to write and add.
+We dont need to use createElement()  or appendChild() methods.
+It converts HTML tags into react elements.
+In this we write expressions into {} braces. The expression can be a React variable, or property, or any other valid JavaScript expression.
+The HTML code must be wrapped in ONE top level element.(like in div element).
+JSX will throw an error if the HTML is not correct, or if the HTML misses a parent element.
+For use more tags in components and to wrap multiple lines we use fragment (<> and </>) for it.
+In jsx we use ClassName instead of class attribute as class is already reserved word in Javascript.S
+
+2. Real Dom
+In real dom updation is slow.
+In this we can update HTML directly.
+We need to create new DOM if elements updates.
+DOM manipulation is very expensive.
+In real DOM memory wastage is high as it required new DOM everytime.
+3. Virtual Dom
+In virtual dom updation is fast.
+In this we can not update HTML directly.
+We need to update JSX if element updates.
+DOM manipulation is very easy.
+In virtual DOM memory wastage is low.
